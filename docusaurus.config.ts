@@ -12,7 +12,7 @@ const projectName = "docs"; // Usually your repo name.
 const config: Config = {
   title: "Jigar Karangiya - Magento 2 Modules Documentation",
   tagline: "Documentation for Magento 2 Modules by Jigar Karangiya",
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -82,8 +82,8 @@ const config: Config = {
     navbar: {
       title: 'Jigar Karangiya',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Jigar Karangiya Logo',
+        src: 'img/jk-logo.png',
       },
       items: [
         {
