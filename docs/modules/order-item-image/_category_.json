@@ -1,0 +1,8 @@
+{
+  "label": "Order Item Image Module",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Complete guide for the Order Item Image Module - Display product images in Magento 2 order emails, invoices, and admin order views."
+  }
+} 
