@@ -10,7 +10,7 @@ const organizationName = "jigarkkarangiya"; // Usually your GitHub org/user name
 const projectName = "docs"; // Usually your repo name.
 
 const config: Config = {
-  title: "Jigar Karangiya - Official Magento 2 Modules Documentation",
+  title: "Jigar Karangiya - Magento 2 Modules Documentation",
   tagline: "Documentation for Magento 2 Modules by Jigar Karangiya",
   favicon: 'img/favicon.ico',
 
@@ -91,11 +91,11 @@ const config: Config = {
           label: 'Tutorial',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: `https://github.com/${organizationName}/${projectName}`,
-          label: 'GitHub',
-          position: 'right',
-        },
+        // {
+        //   href: `https://github.com/${organizationName}/${projectName}`,
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
@@ -114,16 +114,12 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Magento Stack Exchange',
+              href: 'https://magento.stackexchange.com/users/95447/jigar-karangiya',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/in/jigar-ahir/',
             },
           ],
         },
@@ -135,13 +131,25 @@ const config: Config = {
               to: '/blog',
             },
             {
+              label: 'Development Tutorials',
+              href: 'https://jigarkarangiya.com/',
+            },
+            {
+              label: 'Contact',
+              href: 'https://jigarkarangiya.com/newsletter/',
+            },
+            {
               label: 'GitHub',
               href: `https://github.com/${organizationName}/${projectName}`,
+            },
+            {
+              label: 'Newsletter',
+              href: 'https://jigarkarangiya.com/newsletter/',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Jigar Karangiya.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Jigar Karangiya. All rights reserved.`,
     },
     prism: {
       theme: prismThemes.github,
