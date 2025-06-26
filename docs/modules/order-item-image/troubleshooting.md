@@ -395,4 +395,4 @@ When contacting support, provide:
 
 ---
 
-**Still having issues?** [Contact our support team](mailto:support@jigarkarangiya.com) or [check the FAQ](./faq.md). 
+**Still having issues?** [Contact our support team](mailto:support@jigarkarangiya.com). 

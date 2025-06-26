@@ -277,4 +277,4 @@ Advanced Settings:
 
 ---
 
-**Next Steps**: [Learn about advanced features](./advanced-features.md) or [view the API documentation](./api-reference.md). 
+**Next Steps**: [Learn about advanced features](./advanced-features.md). 

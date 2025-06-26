@@ -545,4 +545,4 @@ class ProductImageBlockTest extends \Magento\TestFramework\TestCase\AbstractCont
 
 ---
 
-**Next Steps**: [View the API reference](./api-reference.md) or [learn about troubleshooting](./troubleshooting.md). 
+**Next Steps**: [Learn about troubleshooting](./troubleshooting.md). 
